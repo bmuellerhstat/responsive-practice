@@ -1,4 +1,4 @@
-# Responsive Web Design: Practice
+# Responsive Web Design: Principles
 
 ## Intro
 This site follows a mobile-first design where it was designed primarily to fit on a mobile device. 
