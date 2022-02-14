@@ -4,7 +4,7 @@
 This site follows a mobile-first design where it was designed primarily to fit on a mobile device. 
 
 ## Task
-* Use Media Queries and Responsive Typography to make this website fit better on larger devices
+* Use **Media Queries** and **Responsive Typography** to make this website fit better on larger devices
 * **Write your code in `style.css`**
 * Test out your code by resizing the width of the preview window
             
